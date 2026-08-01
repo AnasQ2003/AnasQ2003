@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anas Ahmed Qureshi
+# Hi, I'm Anas Ahmed Qureshi
 
 <div align="center">
 
