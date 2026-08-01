@@ -1,4 +1,5 @@
-<!-- ═══════════════════ PREMIUM HEADER ═══════════════════ -->
+# 👋 Hi, I'm Anas Ahmed Qureshi
+
 <div align="center">
 
 <!-- Top animated tech banner -->
