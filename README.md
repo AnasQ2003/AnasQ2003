@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%92%BB+React+%7C+Node.js+%7C+React+Native+%7C+SQL;%E2%9C%A8+Turning+Ideas+Into+Digital+Reality;%F0%9F%8C%90+Building+High-Performance+Web+%26+Mobile+Apps;%F0%9F%8E%A8+Clean+Code+%26+Stunning+UX" alt="Subtitle Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%92%BB+React+%7C+Node.js+%7C+React+Native+%7C+SQL;%E2%9C%A8+Turning+Ideas+Into+Digital+Reality;%F0%9F%8C%90+Building+High-Performance+Web+%26+Mobile+Apps;%F0%9F%8E%A8+Clean+Code+%26+Stunning+UI/UX" alt="Subtitle Animation" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 <td width="55%" valign="middle">
 
 <a href="https://github.com/AnasQ2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&vCenter=true&width=600&height=60&lines=Hi+There!+I+am+Anas+Ahmed+%F0%9F%91%8B;Full+Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+Node.js;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&vCenter=true&width=600&height=60&lines=Hi+There!+I+am+Anas+Ahmed+%F0%9F%91%8B;Full+Stack+Web+%26+Mobile+Developer;React+%7C+React+Native+%7C+Node.js;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
 </a>
 
 <br/>
