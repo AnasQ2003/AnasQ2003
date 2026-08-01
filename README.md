@@ -69,10 +69,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" /> &nbsp; About Me
 
-<!-- Table layout: YAML code left (65%), dev animation right (35%) — properly constrained -->
+<!-- Table layout: YAML code left (48%), lofi dev animation right (52%) — larger image size -->
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td valign="middle" width="65%">
+<td valign="middle" width="48%">
 
 ```yaml
 # Profile
@@ -92,9 +92,9 @@ quote:  "Clean code & seamless UX."
 ```
 
 </td>
-<td valign="middle" align="center" width="35%">
+<td valign="middle" align="center" width="52%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="420" alt="Developer Coding Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" style="border-radius: 8px;" alt="Developer Coding Animation" />
 
 </td>
 </tr>
