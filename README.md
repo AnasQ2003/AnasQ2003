@@ -337,17 +337,16 @@ quote:  "Clean code & seamless UX."
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="26px" /> &nbsp; Live GitHub Statistics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasQ2003&theme=github_dark" alt="Profile Details" />
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnasQ2003&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img width="50%" src="https://streak-stats.demolab.com?user=AnasQ2003&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnasQ2003&theme=github_dark" alt="Stats Card" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnasQ2003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnasQ2003&theme=github_dark" alt="Repos Per Language" />
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnasQ2003&theme=github_dark" alt="Most Commit Language" />
+  <img width="90%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnasQ2003&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=10" alt="Languages Donut" />
 </p>
 
 ---
